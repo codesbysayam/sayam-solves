@@ -274,9 +274,19 @@ Every star is appreciated! 🚀
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codesbysayam/sayam-solves/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/codesbysayam/sayam-solves/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codesbysayam/sayam-solves/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/codesbysayam/sayam-solves/tree/master/0115-distinct-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/codesbysayam/sayam-solves/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/codesbysayam/sayam-solves/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
