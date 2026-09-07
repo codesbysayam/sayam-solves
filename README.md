@@ -289,4 +289,12 @@ Every star is appreciated! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codesbysayam/sayam-solves/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/codesbysayam/sayam-solves/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/codesbysayam/sayam-solves/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
